@@ -8,7 +8,7 @@ Brahmagupta is an AMD-Ryzen based system running the latest version of Fedora Li
 ## Specifications:
 
 1) CPU: Ryzen 9 7900X (12 Cores, 24 Threads) [[2]](https://www.amd.com/en/products/cpu/amd-ryzen-9-7900x)
-2) GPU: Radeon RX 6400 [[3]] (https://www.amd.com/en/products/graphics/amd-radeon-rx-6400)
+2) GPU: Radeon RX 6400 [[3]](https://www.amd.com/en/products/graphics/amd-radeon-rx-6400)
 3) Memory:32GB DDR5 @ 6000MHz
 4) Storage: 3.5TB
 5) OS: Fedora Linux 37 (Workstation Edition) 64-bit
